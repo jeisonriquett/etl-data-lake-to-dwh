@@ -1,0 +1,7 @@
+venta_id,fecha_venta,cliente_id_origen,nombre_cliente,ciudad,pais,segmento_cliente,fecha_registro,producto_id_origen,nombre_producto,categoria,subcategoria,proveedor,cantidad_vendida,precio_unitario,monto_total_venta
+1,2024-01-05,101,Juan Pérez,Bogotá,Colombia,Premium,2023-06-10,501,Lavadora Turbo 10kg,Electrodomésticos,Lavado,Whirlpool,1,1200000,1200000
+3,2024-01-06,103,Carlos Díaz,Cali,Colombia,Básico,2023-08-01,503,Refrigerador 300L,Electrodomésticos,Refrigeración,LG,1,1800000,1800000
+4,2024-01-07,101,Juan Pérez,Bogotá,Colombia,Premium,2023-06-10,504,Plancha a vapor,Electrodomésticos,Hogar,Philips,2,150000,300000
+5,2024-01-08,104,Luz Rodríguez,Barranquilla,Colombia,Estándar,2023-09-20,505,Horno Microondas,Electrodomésticos,Hogar,Panasonic,1,400000,400000
+6,2024-01-08,105,Diego Ruiz,Bogotá,Colombia,Básico,2023-10-05,506,Audífonos Bluetooth,Electrónica,Audio,Sony,1,250000,250000
+7,2024-01-09,102,Ana Gómez,Medellín,Colombia,Estándar,2023-07-15,507,Tablet 10,Electrónica,Tablets,Apple,1,1800000,1800000
